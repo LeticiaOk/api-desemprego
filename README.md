@@ -6,9 +6,11 @@
 
 ## `Execução:`
 ### Inicialmente é necessário instalar os módulos do node.js seguindo os seguinte passos:
-* Execute npm init -y para iniciar um novo projeto Node.js.
+* No terminal xecute npm init -y para iniciar um novo projeto Node.js.
 * Instale o Express para criar o servidor HTTP: npm install express.
 * Instale o pacote cors para habilitar o CORS (Cross-Origin Resource Sharing): npm install cors.
+* Ainda to terminal execute o seguinte comando: node app.js.
+* Por fim navegue até o arquivo index.HTML.
 
 ## `Sobre a api:`
 * Esta é uma api simples de portal de vagas de emprego, onde são apresentadas no total 4 páginas.
