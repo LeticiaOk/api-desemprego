@@ -15,6 +15,7 @@
 
 ### Página de vagas:
 * Na página de vagas (index.html) é apresentado na tela vagas de trabalho, com o nome da empresa e suas respectivas descrições.
+![Página princial](public/src/img/prinpal.png)
 
 * Cada dado é puxado de um arquivo vagas.json e a api é desenvolvida no arquivo index.js.
 
