@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: black;
+    font-family: "Roboto", sans-serif;
+    font-weight: normal;
+    color: #20262E;    
+}
+
+.cabecalho{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    border-bottom: 1px solid #DEDEDE;
+    padding: 20px 0;
+}
+h1{
+    color: #00A264;
+    font-family: "Anton", sans-serif;
+    font-weight: 400px;
+    
+}
+ul{
+    list-style: none;
+    display: flex;
+    gap: 30px;
+}
+
+a{
+    text-decoration: none;
+    font-weight: bolder;
+
+}
+li a:hover{
+    text-decoration-color: #DEDEDE !important;
+    text-decoration: underline;
+    text-decoration-thickness: 0.3em;
+    text-underline-offset:2.1em;
+}
+.ativo{
+    color: #00A264;
+    text-decoration: underline;
+    text-decoration-thickness: 0.3em;
+    text-underline-offset:2.1em;
+}
+
+.container{
+    margin: 30px auto;
+}
+
+h2{
+    text-align: center;
+    font-weight: 700;
+    font-size: 2rem;
+}
+img{
+    display: block;
+    margin: 30px auto;
+    width: 200px;
+}
+.container{
+    border:  1px solid #00A264;
+    border-radius: 5px;
+    padding: 30px;
+    box-shadow: 10px 10px 0px 0px #00A264;
+    width: 600px;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.form-dado{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.inserir{
+    border: 1px solid #a5a3a3;
+    padding: 10px 15px;
+    border-radius: 5px;
+}
+
+.envio{
+    border: none;
+    background-color: #00A264;
+    color: #fff;
+    font-weight: 700;
+    padding: 10px 15px;
+    border-radius: 5px;
+    font-size: 17px;
+    cursor: pointer;
+}
+
+
+.inserir-curriculo::-webkit-file-upload-button {
+    display: none;
+}
+.inserir-curriculo{
+    border: 1px solid #00A264;
+    content: 'Escolher Arquivo';
+    background-color: #ffffff;
+    color: #00A264;
+    padding: 10px 15px;
+    border-radius: 5px;
+    font-weight: 600;
+    text-align: center;
+}
+
+p{
+    text-align: center;
+    line-height: 40px;
+}

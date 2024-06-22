@@ -1,0 +1,119 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Roboto", sans-serif;
+    font-weight: normal;
+    color: #20262E;    
+}
+
+.cabecalho{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    border-bottom: 1px solid #DEDEDE;
+    padding: 20px 0;
+}
+h1{
+    color: #00A264;
+    font-family: "Anton", sans-serif;
+    font-weight: 400px;
+    
+}
+ul{
+    list-style: none;
+    display: flex;
+    gap: 30px;
+}
+
+a{
+    text-decoration: none;
+    font-weight: bolder;
+
+}
+a:hover{
+    text-decoration-color: #DEDEDE !important;
+    text-decoration: underline;
+    text-decoration-thickness: 0.3em;
+    text-underline-offset:2.1em;
+}
+.ativo{
+    color: #00A264;
+    text-decoration: underline;
+    text-decoration-thickness: 0.3em;
+    text-underline-offset:2.1em;
+}
+
+#salarios-list{
+    width: 70vw;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    margin: 30px auto;
+    /* background-color: aquamarine; */
+}
+
+.salario-item{
+    border:  1px solid #00A264;
+
+    border-radius: 5px;
+    padding: 30px;
+    transition: 0.5s;
+    box-shadow: 10px 10px 0px 0px #00A264;
+}
+
+h2{
+    font-weight: 900;
+   font-size: 1.5rem;
+}
+
+p{
+    color: #505863;
+    font-size: 17px;
+}
+
+.atualizacao{
+    font-size: 17px;
+}
+.salario{
+    margin-top: 20px;
+}
+.faixa{
+    color: #20262E;    
+    text-decoration: underline dotted;
+    text-decoration-color: #00A264;
+    text-underline-offset:0.3em;
+    line-height: 30px;
+}
+
+.remuneracao{
+    font-size: 2.5rem;
+    font-weight: 900;
+}
+
+.mes{
+    font-size: 16px;
+}
+
+.media-texto,
+.info-texto{
+    font-weight:900;
+    line-height: 40px;
+}
+
+.media-dado{
+    font-size: 14px;
+}
+
+
+.informacoes{
+    margin-top: 20px;
+}
+
+.info-dado{
+    width: 90%;
+}

@@ -1,0 +1,44 @@
+[
+    {
+        "id": "1",
+        "cargo": "Cientista de Dados",
+        "atualizacao": "Atualizado em 27 de mai. de 2024",
+        "remuneracao": "R$ 8 mil - R$ 13 mil",
+        "descricao": "A média salarial do cargo de Cientista De Dados (São Paulo) é de R$ 11.500 por mês. A remuneração variável do cargo de Cientista De Dados nessa localização (São Paulo) é de R$ 1.500, variando entre R$ 825 e R$ 2.500. As estimativas de salários têm como base 1469 salários enviados de forma sigilosa ao Glassdoor por pessoas com o cargo de Cientista De Dados nessa localização (São Paulo).",
+        "media": "1.469 salários"
+    },
+    {
+        "id": "2",
+        "cargo": "Designger gráfico",
+        "atualizacao": "Atualizado em 27 de mai. de 2024",
+        "remuneracao": "R$ 3 mil - R$ 5 mil",
+        "descricao": "A média salarial do cargo de Designer Gráfico (São Paulo) é de R$ 4.000 por mês. A remuneração variável do cargo de Designer Gráfico nessa localização (São Paulo) é de R$ 500, variando entre R$ 213 e R$ 833. As estimativas de salários têm como base 1898 salários enviados de forma sigilosa ao Glassdoor por pessoas com o cargo de Designer Gráfico nessa localização (São Paulo).",
+        "media": "1.869 salários"
+    },
+    {
+        "id": "3",
+        "cargo": " Desenvoledor Full Stack",
+        "atualizacao": "Atualizado em 27 de mai. de 2024",
+        "remuneracao": "R$ 3 mil - R$ 10 mil",
+        "descricao": "A média salarial do cargo de Desenvoledor Full Stack (São Paulo) é de R$ 5.146 por mês. A remuneração variável do cargo de Desenvoledor Full Stack nessa localização (São Paulo) é de R$ 1.096, variando entre R$ 1.053 e R$ 1.139. As estimativas de salários têm como base 8 salários enviados de forma sigilosa ao Glassdoor por pessoas com o cargo de Desenvoledor Full Stack nessa localização (São Paulo).",
+        "media": "8 salários"
+
+    },
+    {
+        "id": "4",
+        "cargo": " Desenvolvedor De Jogos",
+        "atualizacao": "Atualizado em 27 de mai. de 2024",
+        "remuneracao": "R$ 2 mil - R$ 5 mil",
+        "descricao": "A média salarial do cargo de Desenvolvedor De Jogos (São Paulo) é de R$ 3.200 por mês. A remuneração variável do cargo de Desenvolvedor De Jogos nessa localização (São Paulo) é de R$ 200, variando entre R$ 133 e R$ 417. As estimativas de salários têm como base 17 salários enviados de forma sigilosa ao Glassdoor por pessoas com o cargo de Desenvolvedor De Jogos nessa localização (São Paulo).",
+        "media": "17 salários"
+    },
+    {
+        "id": "5",
+        "cargo": "Ui/Ux Designer",
+        "atualizacao": "Atualizado em 27 de mai. de 2024",
+        "remuneracao": "R$ 3 mil - R$ 7 mil",
+        "descricao": "A média salarial do cargo de Ui/Ux Designer (São Paulo) é de R$ 5.792 por mês. A remuneração variável do cargo de Ui/Ux Designer nessa localização (São Paulo) é de R$ 792, variando entre R$ 345 e R$ 1.833. As estimativas de salários têm como base 457 salários enviados de forma sigilosa ao Glassdoor por pessoas com o cargo de Ui/Ux Designer nessa localização (São Paulo).",
+        "media": "457 salários"
+    }
+  ]
+ 

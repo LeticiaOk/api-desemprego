@@ -1,0 +1,54 @@
+[
+    {
+        "id": "2",
+        "cargo": "Assistente Administrativo",
+        "logo": "https://media.glassdoor.com/sql/10999/ita%C3%BA-unibanco-ita%C3%BA-bba-e-rede-squareLogo-1703158988454.png",
+        "local": "São Paulo",
+        "empresa": "Itaú",
+        "atribuicoes": "O Colaborar irá apoiar a operação de gestão de Equipamentos eletrônicos da rede de agências do Itaú Unibanco.Modelo de trabalho: Híbrido sem escala\n\nCadastramento de equipamentos em sistemas Atualização de informações de equipamentos utilizados Suporte com informações pontuais sobre status e disponibilidade de equipamentos\n\n• Vale Transporte\n• Vale Refeição\n• Seguro de Vida",
+        "regime": "Híbrido",
+        "salario": "R$ 2 mil"
+    },
+    {
+        "id": "4",
+        "cargo": "Operador de Logística",
+        "logo": "https://media.glassdoor.com/sqls/10939/americanas-s-a-squareLogo-1629320880267.png",
+        "local": "São Paulo",
+        "empresa": "Americanas",
+        "atribuicoes": "- Receber, conferir e acomodar mercadorias no estoque; - Realizar a separação e embalagem de pedidos de acordo com os padrões estabelecidos; - Efetuar movimentações internas de produtos, utilizando equipamentos adequados; - Assegurar a organização e limpeza do setor de logística; - Participar de inventários e demais atividades relacionadas à área; - Trabalhar em equipe, visando o cumprimento de metas e resolução de problemas.Escolaridade Mínima: Ensino Médio (2º Grau)\n\n• Vale transporte\n• Seguro de vida\n• Gympass\n• Alimentação na empresa\n• Plano de saúde\n• Plano odontológico\n• Desconto em compras",
+        "regime": "Presencial",
+        "salario": "R$ 2 mil"
+    },
+    {
+        "id": "1",
+        "cargo": "Estagiário De Projetos de TI",
+        "logo": "https://media.glassdoor.com/sqls/519339/india-yamaha-motor-pvt-squarelogo-1425967824908.png",
+        "local": "São Paulo",
+        "empresa": "Yamaha Motor",
+        "atribuicoes": "Auxiliar nas atividades de projetos, processos, serviços de TI e/ou financeiro de TI.\n\nResponsabilidades e atribuições\nAuxiliar nas atividades de projetos, processos, serviços de TI e/ou financeiro de TI.\n\nRequisitos e qualificações\nSenso de organização e disciplina.\nBoa comunicação verbal e escrita.\nCuriosidade e proatividade para aprender.\nBoa índole e postura, terá acesso de informações sensíveis.\nConhecimento do pacote office.",
+        "regime": "Presencial",
+        "salario": "R$ 2 mil"
+    },
+    {
+        "id": "3",
+        "cargo": "Analista de Dados",
+        "logo": "https://media.glassdoor.com/sql/8338/vivo-telef%C3%B4nica-brasil-squareLogo-1700227295029.png",
+        "local": "São Paulo",
+        "empresa": "Vivo",
+        "atribuicoes": "Está sob à responsabilidade do Analista de Dados;\n\n• Extrair bases de dados e padronizar informações, organizando o banco de dados.\n• Construir apresentações e relatórios dos estudos realizados em Power BI.\n• Realizar levantamento de requisitos e mapeamento de processos para organização dos dados.\n• Participar de reuniões gerenciais para apresentação de relatórios.\n• Executar a pesquisa de satisfação de atendimento das demandas, bem como mineração, documentação e definições de dados.\n• Ser responsável por propor e implementar ferramentas para o uso interno da área de dados, visando aumentar a maturidade e agilidade de desenvolvimento do time.\n• Ajudar no gerenciamento de projetos internos do time de Análise de Dados.Oferecer suporte às demandas de extração de dados e visualizações de dados.",
+        "regime": "Remoto",
+        "salario": "R$ 3 mil"
+    },
+    {
+        "id": "5",
+        "cargo": "Estagiário de Design",
+        "logo": "https://media.glassdoor.com/sql/3492/nestl%C3%A9-squareLogo-1645019349643.png",
+        "local": "São Paulo",
+        "empresa": "Nestlé",
+        "atribuicoes": "Vaga destinada para os cursos de: Comunicação Visual/Designer/MarketingHorário de estágio: 2ª a 6ª feira das 10:00 as 16:00 hsPúblico alvo: estudantes a partir do 1º semestre e que estude no período noturnoAtribuições: criação de imagens, edição e montagem de videos, divulgação de cursos e eventos em redes sociais, acompanhamento dessas divulgações e mapeamento do público, conhecer sobre gestão de tráfego e diagramação.Pré requisito: o candidato tem que ter bons conhecimentos em edição de videos e midias sociais, PhotoShop, Ilustrator, Canva, programas de edição de video.\n\nBenefícios:\n• Seguro de vida\n• Vale-transporte\n\nHorário de trabalho:\n• De segunda à sexta-feira\n\nTipos de pagamento adicional:\n• Adicional de férias",
+        "regime": "Presencial",
+        "salario": "R$ 1 mil"
+
+    }
+  ]
+ 

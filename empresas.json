@@ -1,0 +1,38 @@
+
+[
+    {
+        "id": "5",
+        "nome": "Mercado Livre",
+        "logo": "https://media.glassdoor.com/sql/2372230/mercado-livre-squareLogo-1669933863093.png",
+        "descricao": "Somos a empresa de tecnologia de comércio eletrônico líder na América Latina, e temos um propósito que vai além dos números: democratizar o comércio e o dinheiro para impactar o desenvolvimento e a vida da população. Oferecemos soluções para que todos possam comprar, vender, anunciar, enviar e pagar bens e serviços pela internet, sendo empresas ou pessoas.\n\nMissão: Fazer parte do MELI é muito mais do que um trabalho!É viver nossa cultura empreendedora, uma das principais vantagens competitivas, que nos permitiu ser o que somos hoje. Priorizamos a diversidade, a autonomia e a criatividade em um ambiente onde damos o máximo e nos divertimos.",
+        "reputacao": "4,3"
+    },
+    {
+        "id": "4",
+        "nome": "Dell Technologies",
+        "logo": "https://media.glassdoor.com/sql/1327/dell-technologies-squarelogo-1702514279238.png",
+        "descricao": "Dell is a collective of customer-obsessed, industry-leading visionaries. At our core is a commitment to diversity, sustainability and our communities. We offer unparalleled growth and development opportunities for our team members. We believe that technology is essential for driving human progress, and we’re committed to providing that technology to people and organizations everywhere, so they can transform the way they work and live.\n\nMissão: It’s an exciting time to join Dell Technologies. We’re on a mission to find, attract, and bring aboard the best and brightest – superstars who are also great team players and leaders who make it their first priority to serve. Follow these steps to apply to our team of talented, forward-thinking people who share in the common goal of driving human progress forward.",
+        "reputacao": "4,0"
+    },
+    {
+        "id": "2",
+        "nome": "Sky",
+        "logo": "https://media.glassdoor.com/sql/2482715/sky-squarelogo-1574954551275.png",
+        "descricao": "Somos a maior operadora de TV paga via satélite com sinal 100% digital do País. Nos orgulhamos em ser uma empresa presente, diversificada e divertida, e levamos o melhor da nossa programação a todos os brasileiros. Uma marca pioneira no lançamento da Banda Larga 4G no Brasil.\n\nNossa motivação é estar cada vez mais próximos do nosso consumidor e democratizar o acesso a diversão, cultura e informação, com alta qualidade de sinal, atendimento e serviço para cada Brasil, atendendo às necessidades de todos os nossos clientes.\n\n\nMissão: Cativar as pessoas com a melhor experiência de entretenimento digital, quando e onde preferirem, oferecendo conteúdo, tecnologia e experiências de alta qualidade para os usuários.",
+        "reputacao": "4,1" 
+    },
+    {
+        "id": "3",
+        "nome": "Claro",
+        "logo": "https://media.glassdoor.com/sqls/748887/claro-squareLogo-1652451662159.png",
+        "descricao": "Aqui, temos um grande time que faz tudo acontecer! É com o esforço e a dedicação de cada uma de nossas Pessoas que somos hoje referência no que fazemos, atuando unidos no nosso propósito, que é “Conectar para uma vida mais divertida e produtiva”.\n\nSomamos todas as tecnologias para criar a melhor e mais completa infraestrutura de conectividade do País. Somos multicampeões confirmado pelo Speedtest como Internet móvel mais rápida e estável e com rede wi-fi mais estável do Brasil, entre tantos outros reconhecimentos. Também somos a 4º marca mais valiosa do Brasil (BrandZ).\n\n\nMissão: Conectar para uma vida mais divertida e produtiva.",
+        "reputacao": "4,2"
+    },
+    {
+        "id": "1",
+        "nome": "Yamaha Motor",
+        "logo": "https://media.glassdoor.com/sql/19958/yamaha-motor-u-s-a-squarelogo.png",
+        "descricao": "Mais conhecida por sua extensa linha de motocicletas, a empresa também fabrica scooters, bicicletas eletro-híbridas, quadriciclos de quatro rodas, barcos de lazer e pesca, carrinhos de corrida e golfe e motos de neve. Outros produtos incluem motores, piscinas, cadeiras de rodas elétricas e helicópteros não tripulados usados ​​para pulverizar culturas agrícolas.\n\nAs motocicletas, que representam 70% das vendas totais da empresa, têm cerca de 15% do mercado nos EUA. Os mercados externos respondem por cerca de 90% das vendas. Fundada em 1955, a Yamaha Motor e as suas mais de 140 subsidiárias e afiliadas operam fábricas de vendas e produção em todo o mundo.",
+        "reputacao": "4,1"
+    }
+  ]

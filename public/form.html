@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Desemprego</title>
+    <link rel="stylesheet" href="../src/css/form.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0" />
+</head>
+
+<body>
+    <header class="cabecalho">
+        <!-- <img src="" alt="logo"> -->
+        <h1>&lsquo;DESEMPREGO&rsquo;
+        </h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Vagas</a></li>
+                <li><a href="empresas.html">Empresas</a></li>
+                <li><a href="salarios.html">Salários</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <div class="container">
+            <h2>Candidata-se para a vaga</h2>
+            <p>Ei... Não se esqueça de atualizar o currículo!</p>
+            <img src="https://www.glassdoor.co.in/assets/images/community/conversation-starts-here.svg" alt="imagem ilustrativa">
+            <form action="">
+                <div class="form-email form-dado">
+                    <label for="email">Endereço de Email:</label>
+                    <input class="inserir" type="email" name="email" id="email" >
+                </div>
+                <div class="form-numero form-dado">
+                    <label for="numero">Número de celular:</label>
+                    <input class="inserir" type="text" name="numero" id="numero">
+                </div>
+                <div class="form-curriculo form-dado">
+                    <label for="curriculo">Currículo:</label>
+                    <input class="inserir-curriculo" type="file" name="curriculo" id="curriculo" >
+                </div>
+            
+                <input class="envio" type="submit" value="Enviar candidatura" onclick="envio(event)">
+            </form>
+        </div>
+    </main>
+    <script src="form.js"></script>
+</body>
+
+</html>
