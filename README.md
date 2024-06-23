@@ -1,5 +1,8 @@
 # Api de portal de vagas de emprego
 
+## `Skills:`
+* HTML, CSS, node.JS express, JavaScript
+
 ## `Considerações:`
 * Esta foi minha primeira api desenvolvida como parte da disciplina de Linguagens de Script para Web da minha faculdade do curso de Sistemas para Internete e NÃO têm objetivo lucrativo.
 * Toda a estrtura do site da api foi baseada no site de portal de vagas de empregos 'Glassdoor'.
