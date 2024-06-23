@@ -2,15 +2,14 @@
 
 ## `Considerações:`
 * Esta foi minha primeira api desenvolvida como parte da disciplina de Linguagens de Script para Web da minha faculdade do curso de Sistemas para Internete e NÃO têm objetivo lucrativo.
-* Toda a estrtura do site da api foi baseada no site de portal de vags de empregos 'Glassdoor'.
+* Toda a estrtura do site da api foi baseada no site de portal de vagas de empregos 'Glassdoor'.
 
 ## `Execução:`
-### Inicialmente é necessário instalar os módulos do node.js seguindo os seguinte passos:
-* No terminal xecute npm init -y para iniciar um novo projeto Node.js.
-* Instale o Express para criar o servidor HTTP: npm install express.
-* Instale o pacote cors para habilitar o CORS (Cross-Origin Resource Sharing): npm install cors.
-* Ainda to terminal execute o seguinte comando: node app.js.
-* Por fim navegue até o arquivo index.HTML.
+* No terminal execute **npm init -y** para iniciar um novo projeto Node.js.
+* Instale o Express para criar o servidor HTTP: **npm install express**.
+* Instale o pacote cors para habilitar o CORS (Cross-Origin Resource Sharing): **npm install cors**.
+* Ainda to terminal execute o seguinte comando: **node app.js**.
+* Por fim navegue até o arquivo **index.html**.
 
 ## `Sobre a api:`
 * Esta é uma api simples de portal de vagas de emprego, onde são apresentadas no total 4 páginas.
